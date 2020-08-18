@@ -1,3 +1,3 @@
 # hello-world
-getting familiar with github
+getting familiar
 changing something
